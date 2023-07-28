@@ -1,0 +1,4 @@
+DENSITY	T	P	DIAMETER	nb	tau_alpha
+0.82 .80000    0.1	0.3	1	.0
+start_ensemble	end_ensemble
+0	0
