@@ -1,0 +1,11 @@
+To Compile ===> make run 
+to Run  ==> mpirun -np #of procs ./run 0 0 0 
+									   | | |
+Flags								   1 2 3	
+
+1=> task id
+2=>restart equlibrium, 0 for fresh start and 1 for restart
+3=>restart run, 0 for fresh start and 1 for restart, 
+
+
+0 0 0 to fresh start every thing
